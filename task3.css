@@ -1,0 +1,15 @@
+
+table,tr,th,td{
+    border:3px solid #79dcee;
+    border-collapse: collapse;
+  }
+  table{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+  }
+  th{
+    color: white;
+    background-color: #79dcee;
+    height: 30px;
+  }
